@@ -1,0 +1,12 @@
+api\test\api\utilities\DataProviders.class
+api\test\api\utilities\ExcelUtils.class
+api\endpoints\UserEndPoints.class
+api\payload\User.class
+api\endpoints\Routes.class
+api\test\UserTest.class
+api\test\api\utilities\ExcelUtils$1.class
+api\test\DataDrivenTests.class
+api\test\api\utilities\ExtentReportManager.class
+api\test\api\utilities\XLUtility.class
+api\endpoints\UserEndpointsByRoutesPropertyFile.class
+api\test\UserTestBYPropertyFile.class
