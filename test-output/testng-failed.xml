@@ -5,10 +5,8 @@
     <classes>
       <class name="api.test.UserTestBYPropertyFile">
         <methods>
-          <include name="testDeleteUserByName"/>
           <include name="testGetUserByName"/>
           <include name="setup"/>
-          <include name="testGetUserByName2"/>
         </methods>
       </class> <!-- api.test.UserTestBYPropertyFile -->
     </classes>
